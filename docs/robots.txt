@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blackmore-technology-group.github.io/HUNTAR-DOCS/sitemap.xml
